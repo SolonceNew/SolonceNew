@@ -4,6 +4,8 @@
 
 ***В марте 2023 года я закончила обучение в Нетологии на курсе Java-разработчик с нуля. Сейчас я полностью готова к тому, чтобы приступить к работе на позиции intern/junior java-developer.***
 
+[<image alt="Resume" width="40" hspace="3" src="https://cdn-icons-png.flaticon.com/512/9291/9291927.png"/>](https://ruby-wildebeest-d2e.notion.site/Resume-Junior-Java-developer-1398d7e92ee847d187ec138e2c802efa)
+
 #### Если захотите со мной связаться - нажмите на значок. 
 
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/Soloncemio)
