@@ -33,6 +33,7 @@
 ## Мои проекты:
 #### [Облачное хранилище файлов](https://github.com/SolonceNew/Netology_Diploma)
 #### [Сервис по учёту аренды авто](https://github.com/SolonceNew/Rental_App)
+#### [Модуль фильтрации перелетов](https://github.com/SolonceNew/Flight_module)
 
 ---
 ## Решение задач по теме алгоритмы и структуры данных:
